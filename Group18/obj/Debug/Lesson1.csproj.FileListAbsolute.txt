@@ -4,3 +4,6 @@ C:\Users\Alex\Desktop\Group18\Group18\bin\Debug\Group18.pdb
 C:\Users\Alex\Desktop\Group18\Group18\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\Group18\Group18\obj\Debug\Group18.exe
 C:\Users\Alex\Desktop\Group18\Group18\obj\Debug\Group18.pdb
+C:\Users\Alex\Documents\GitHub\Group18\Group18\bin\Debug\Group18.exe.config
+C:\Users\Alex\Documents\GitHub\Group18\Group18\obj\Debug\Group18.exe
+C:\Users\Alex\Documents\GitHub\Group18\Group18\obj\Debug\Group18.pdb
