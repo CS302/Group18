@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\bin\Debug\WpfSample.exe.config
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\bin\Debug\WpfSample.exe
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\bin\Debug\WpfSample.pdb
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\MainWindow.baml
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample_MarkupCompile.cache
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.g.resources
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.exe
+C:\Users\Alex\Documents\GitHub\Group18\WpfSample\obj\Debug\WpfSample.pdb

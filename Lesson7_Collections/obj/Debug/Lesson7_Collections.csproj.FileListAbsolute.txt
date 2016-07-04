@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\bin\Debug\Lesson7_Collections.exe.config
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\bin\Debug\Lesson7_Collections.exe
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\bin\Debug\Lesson7_Collections.pdb
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\obj\Debug\Lesson7_Collections.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\obj\Debug\Lesson7_Collections.exe
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Collections\obj\Debug\Lesson7_Collections.pdb

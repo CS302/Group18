@@ -1,0 +1,37 @@
+﻿<Window x:Class="WpfSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Vertical">
+            <Button Margin="0 10 0 0" Content="+" Height="50" Width="100" Click="Button_Click"/>
+            <Button Margin="0 10 0 0" Content="-" Height="50" Width="100" Click="Button_Click_1"/>
+            <Button Margin="0 10 0 0" Content="*" Height="50" Width="100" Click="Button_Click_2"/>
+            <Button Margin="0 10 0 0" Content="/" Height="50" Width="100" Click="Button_Click_3"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <StackPanel Margin="0 10 0 0" Orientation="Horizontal">
+                <TextBlock Width="150" Text="Первый" FontSize="24"/>
+                <TextBox Name="first" Text="{Binding X}" Width="150" FontSize="24"/>
+            </StackPanel>
+
+            <StackPanel Margin="0 10 0 0" Orientation="Horizontal">
+                <TextBlock Width="150" Text="Второй" FontSize="24"/>
+                <TextBox Name="second" Text="{Binding Y}" Width="150" FontSize="24"/>
+            </StackPanel>
+
+
+            <StackPanel Margin="0 10 0 0" Orientation="Horizontal">
+                <TextBlock Width="150" Text="Результат" FontSize="24"/>
+                <TextBox Name="result" Width="150" FontSize="24"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

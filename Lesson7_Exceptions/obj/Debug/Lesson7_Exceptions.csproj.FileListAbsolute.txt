@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Exceptions\bin\Debug\Lesson7_Exceptions.exe.config
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Exceptions\bin\Debug\Lesson7_Exceptions.exe
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Exceptions\bin\Debug\Lesson7_Exceptions.pdb
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Exceptions\obj\Debug\Lesson7_Exceptions.exe
+C:\Users\Alex\Documents\GitHub\Group18\Lesson7_Exceptions\obj\Debug\Lesson7_Exceptions.pdb
