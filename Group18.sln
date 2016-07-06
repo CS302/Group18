@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9", "Lesson9\Lesson9.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSample", "WpfSample\WpfSample.csproj", "{CCAB76E8-ED75-4603-A3D4-B08BDD657757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkersLibrary", "WorkersLibrary\WorkersLibrary.csproj", "{CE65610A-60E8-44E5-8504-BA646B3EF510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkersEditor", "WorkersEditor\WorkersEditor.csproj", "{48449090-252D-4171-9D12-2C0A903F0D49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{CCAB76E8-ED75-4603-A3D4-B08BDD657757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCAB76E8-ED75-4603-A3D4-B08BDD657757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCAB76E8-ED75-4603-A3D4-B08BDD657757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE65610A-60E8-44E5-8504-BA646B3EF510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE65610A-60E8-44E5-8504-BA646B3EF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE65610A-60E8-44E5-8504-BA646B3EF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE65610A-60E8-44E5-8504-BA646B3EF510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48449090-252D-4171-9D12-2C0A903F0D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48449090-252D-4171-9D12-2C0A903F0D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48449090-252D-4171-9D12-2C0A903F0D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48449090-252D-4171-9D12-2C0A903F0D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
